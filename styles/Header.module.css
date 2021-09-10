@@ -4,3 +4,8 @@
     margin-inline: 40px;
     margin-top: 16px;
 }
+#Icon{
+    display: flex;
+    font-weight: 500;
+    font-style: oblique;
+}
