@@ -1,0 +1,6 @@
+.Header{
+    display: flex;
+    justify-content: space-between;
+    margin-inline: 40px;
+    margin-top: 16px;
+}
